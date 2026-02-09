@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew dependencies",
+    "working_directory": "/home/kavia/workspace/code-generation/airport-passenger-service-platform-26705-26714/kyc_service"
+}
